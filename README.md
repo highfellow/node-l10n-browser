@@ -1,4 +1,4 @@
 node-l10n-browser
 =================
 
-Browser adapter for node-l10n
+Browser front end for node-l10n
