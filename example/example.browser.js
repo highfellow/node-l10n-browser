@@ -2111,3 +2111,4 @@ var l10n = new L10n(new L10n_Browser());
 });
 require("/example/example.js");
 })();
+ 
